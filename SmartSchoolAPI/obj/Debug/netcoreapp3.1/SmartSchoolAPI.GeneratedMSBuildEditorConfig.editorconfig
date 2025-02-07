@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = SmartSchoolAPI
+build_property.ProjectDir = C:\Users\trunf\source\repos\SmartSchoolAPI\SmartSchoolAPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
