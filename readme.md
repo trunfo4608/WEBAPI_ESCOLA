@@ -1,11 +1,11 @@
-# WEBAPI_ESCOLA
+# WEBAPI ESCOLA
 
-Estes são todos os arquivos do nosso curso sobre Asp.net Core WebAPI, EF Core, Docker, Angular e muito mais
+Estes são todos os arquivos necessários: Asp.net Core WebAPI, EF Core, Docker e Angular.
 
 01. Ferramentas e Sugestões
 02. HTTP, REST, JSON e MVC
 03. Projeto .NET Core
-04. Introdução a EF Core
+04. EF Core
 05. Repositório
 06. DTO e AutoMapper
 07. Swagger
@@ -17,7 +17,4 @@ Estes são todos os arquivos do nosso curso sobre Asp.net Core WebAPI, EF Core, 
 ## Instalações Necessárias
 
 1. [Install Node.js](https://nodejs.org/)
-1. [Install .NET Core 3.1](https://dotnet.microsoft.com/download/)
-2. Fork the [AspNetCoreWebAPI](https://github.com/trunfo4608/WEBAPI_ESCOLA)
-
-
+2. [Install .NET Core 3.1](https://dotnet.microsoft.com/download/)
